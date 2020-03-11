@@ -1,1 +1,1 @@
-# smoker_semaphore
+# Smoker and rollerCoster examples HWK
